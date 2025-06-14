@@ -8,7 +8,7 @@ export const portfolioData = {
     location: "Medan, Sumatera Utara",
     linkedin: "https://linkedin.com/in/briyanyehezkhiel",
     github: "https://github.com/briyanyehezkhiel",
-    website: "https://briyanyehezkhiel.dev"
+    website: "https://portofolio-omega-drab.vercel.app"
   },
 
   skills: {
