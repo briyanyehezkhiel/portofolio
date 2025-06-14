@@ -80,7 +80,7 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-indigo-400 rounded-full animate-pulse"></div>
               <div className="absolute inset-4 bg-white rounded-full flex items-center justify-center">
                 <img
-                  src="/public/briyan.png"
+                  src="/public/briyan.jpg"
                   alt={personal.name}
                   className="w-64 h-64 rounded-full object-cover"
                 />
