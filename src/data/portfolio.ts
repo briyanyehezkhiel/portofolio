@@ -12,23 +12,20 @@ export const portfolioData = {
   },
 
   skills: {
-    expert: [
-      { name: "Java", icon: "Coffee" },
-      { name: "Kotlin", icon: "Smartphone" },
+    intermediate: [
       { name: "Python", icon: "Terminal" },
       { name: "PHP", icon: "Server" },
       { name: "JavaScript", icon: "Code" },
-      { name: "C++", icon: "Code2" }
-    ],
-    intermediate: [
+      { name: "C++", icon: "Code2" },
       { name: "MySQL", icon: "Database" },
       { name: "Tailwind CSS", icon: "Palette" },
       { name: "Laravel", icon: "Server" },
       { name: "Filament", icon: "Server" },
-      { name: "React", icon: "Globe" },
-      { name: "TypeScript", icon: "FileText" }
+      { name: "Java", icon: "Coffee" },      
+      { name: "Kotlin", icon: "Smartphone" },
     ],
     beginner: [
+      { name: "React", icon: "Globe" },
       { name: "Machine Learning", icon: "Brain" },
       { name: "Flutter", icon: "Smartphone" }
     ]
@@ -260,12 +257,12 @@ export const portfolioData = {
     {
       title: "Soft Skills",
       description: "Kerja sama tim, Komunikasi baik, Berpikir kreatif, Kepemimpinan, Manajemen Waktu",
-      date: "2024"
+      date: "2025"
     },
     {
       title: "Hard Skills",
       description: "C++, Python, Kotlin, Java, PHP, JavaScript",
-      date: "2023"
+      date: "2025"
     }
   ]
 };

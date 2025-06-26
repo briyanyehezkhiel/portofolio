@@ -22,29 +22,6 @@ const Skills: React.FC = () => {
         </div>
 
         <div className="space-y-12">
-          {/* Expert Level */}
-          <div>
-            <div className="flex items-center mb-8">
-              <div className="bg-emerald-100 p-3 rounded-lg mr-4">
-                <Code className="w-6 h-6 text-emerald-600" />
-              </div>
-              <div>
-                <h3 className="text-2xl font-bold text-gray-800">Tingkat Ahli</h3>
-                <p className="text-gray-600">Teknologi yang saya kuasai dengan sangat baik</p>
-              </div>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {skills.expert.map((skill, index) => (
-                <SkillCard
-                  key={index}
-                  name={skill.name}
-                  icon={getIcon(skill.icon)}
-                  level="expert"
-                />
-              ))}
-            </div>
-          </div>
-
           {/* Intermediate Level */}
           <div>
             <div className="flex items-center mb-8">

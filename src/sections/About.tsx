@@ -65,8 +65,7 @@ const About: React.FC = () => {
               Fokus Akademik
             </h4>
             <p className="text-blue-100">
-              Spesialisasi dalam rekayasa perangkat lunak, struktur data, dan teknologi emerging 
-              dengan pengalaman hands-on dalam pengembangan full-stack dan aplikasi machine learning.
+              Memiliki pemahaman dan pengalaman praktis yang luas dalam berbagai aspek pengembangan perangkat lunak. Mampu berkontribusi di berbagai area, mulai dari dasar-dasar rekayasa perangkat lunak dan implementasi struktur data sederhana. Memiliki pengalaman dalam mengerjakan proyek pengembangan full-stack dasar.
             </p>
           </div>
         </div>

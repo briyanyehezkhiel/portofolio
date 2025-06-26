@@ -99,8 +99,8 @@ const Experience: React.FC = () => {
           <div className="p-6 bg-gradient-to-r from-emerald-500 to-blue-500 rounded-xl text-white text-center">
             <h4 className="text-lg font-semibold mb-3">Pembelajaran Berkelanjutan</h4>
             <p className="text-emerald-100 text-sm leading-relaxed">
-              Saya berkomitmen untuk tetap mengikuti perkembangan teknologi emerging dan praktik terbaik industri. 
-              Saat ini sedang mengejar sertifikasi tambahan dalam cloud computing dan machine learning untuk 
+              Saya berkomitmen untuk tetap mengikuti perkembangan teknologi dan praktik terbaik industri. 
+              Saat ini sedang berusaha mempelajari machine learning juga teknologi lain untuk 
               meningkatkan keahlian teknis saya.
             </p>
           </div>
