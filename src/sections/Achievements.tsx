@@ -29,10 +29,10 @@ const Achievements: React.FC = () => {
             <div className="bg-yellow-100 p-3 rounded-lg mr-4">
               <Trophy className="w-8 h-8 text-yellow-600" />
             </div>
-            <h2 className="text-4xl font-bold text-gray-800">Prestasi & Penghargaan</h2>
+            <h2 className="text-4xl font-bold text-gray-800">Kemampuan</h2>
           </div>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Pengakuan atas keunggulan akademik dan pencapaian teknis
+            Kombinasi hard skill teknis dan soft skill yang mendukung kesuksesan profesional
           </p>
         </div>
 
