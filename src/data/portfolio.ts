@@ -22,11 +22,11 @@ export const portfolioData = {
       { name: "Laravel", icon: "Server" },
       { name: "Filament", icon: "Server" },
       { name: "Java", icon: "Coffee" },      
+      { name: "Machine Learning", icon: "Brain" },
       { name: "Kotlin", icon: "Smartphone" },
     ],
     beginner: [
       { name: "React", icon: "Globe" },
-      { name: "Machine Learning", icon: "Brain" },
       { name: "Flutter", icon: "Smartphone" }
     ]
   },
