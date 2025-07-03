@@ -74,7 +74,7 @@ export const portfolioData = {
         "Analisis kebutuhan & perancangan UI"
       ],
       github: "https://github.com/briyanyehezkhiel/MagangBPN",
-      demo: "https://arispseksiv.great-site.net",
+      demo: "https://arsipseksiv.great-site.net",
       image: "/arsipseksiv.png"
     }
   ],
